@@ -8,10 +8,10 @@ int main(int argc, char** argv)
 	cin >> x >> y;
 	
 	if (x>y)
-		cout << "O maior valor é:"  << x;
+		cout << "O maior valor e:"  << x;
 	
 	else 
-		cout << "O maior valor é:"  << y;
+		cout << "O maior valor e:"  << y;
 	
 	return 0;
 }
