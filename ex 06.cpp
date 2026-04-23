@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	if (relacao < 20) 
 		cout << "Abaixo do peso";
 	
-    else if(relacao >= 20 && relacao < 25)
+    else if(relacao <= 20 && relacao < 25)
 		cout << "Peso ideal";
 	
 	else
