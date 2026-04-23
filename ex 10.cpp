@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     double p1, p2, media;
-
+    cout<< "Digite o valor da P1 e P2:";
     cin >> p1 >> p2;
 
     media = (p1 + 2*p2) / 3;
